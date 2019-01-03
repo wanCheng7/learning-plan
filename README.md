@@ -17,10 +17,11 @@
 - 每周至少一篇总结性博客，无论什么内容都可以，这是一个deadline，必须完成的那种，讲道理是不难的。
 - 重新观看[前端安全](http://www.zhenchuanx.com/open/course/39)视频，并写总结文章
 - 手写Promsie，总结文章
+- 看别人移动端下[1像素解决方案](https://juejin.im/entry/584e427361ff4b006cd22c7c)，自己实践之后总结一篇文章
 
  ### 2019-01
  #### 2019-01-03
- - 
+ - 重新观看[前端安全](http://www.zhenchuanx.com/open/course/39)视频，并写总结文章
  
 
 
